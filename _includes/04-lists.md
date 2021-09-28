@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Baking 🍪
+* Kdrama 🎥
+  * Hospital Playlist 🏥 
+  * Prison Playbook 🚔
+  * Reply 1988 👪
