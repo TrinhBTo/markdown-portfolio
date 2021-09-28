@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Information Technology Project Assistant__
+ Company: *VietJet Air*
+ Dates Employed: Mar 2021 – Jul 2021
+
